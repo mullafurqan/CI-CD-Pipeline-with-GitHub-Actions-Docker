@@ -39,4 +39,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/ci-cd-demo:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}mullafurqan/ci-cd-demo:latest
