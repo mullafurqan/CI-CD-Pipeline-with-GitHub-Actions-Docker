@@ -319,4 +319,6 @@ From GitHub Actions
 - Browser app running  
 
 ---
+![Pod Running & Service Running]()
+![Browser app Running]()
 ```
