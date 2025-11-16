@@ -112,7 +112,7 @@ Go to GitHub → New Repository → Name it: **ci-cd-demo**
 
 ## 4.3 Push project
 ```
-git remote add origin https://github.com/<username>/ci-cd-demo.git
+git remote add origin https://github.com/mullafurqan/ci-cd-demo.git
 git push -u origin main
 ```
 
@@ -207,7 +207,7 @@ Name → **ci-cd-demo**
 Your image link will be:
 
 ```
-docker.io/<username>/ci-cd-demo:latest
+docker.io/mullafurqan/ci-cd-demo:latest
 ```
 
 ---
@@ -256,7 +256,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: <your-docker-username>/ci-cd-demo:latest
+          image: mullafurqan/ci-cd-demo:latest
           ports:
             - containerPort: 3000
 ---
@@ -308,7 +308,7 @@ Includes:
 
 ## 10.2 Docker Hub Image Link  
 Example:  
-https://hub.docker.com/r/<username>/ci-cd-demo
+https://hub.docker.com/r/mullafurqan/ci-cd-demo
 
 ## 10.3 CI/CD Workflow Screenshot  
 From GitHub Actions
