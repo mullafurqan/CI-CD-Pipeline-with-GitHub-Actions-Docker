@@ -319,8 +319,10 @@ From GitHub Actions
 - Browser app running  
 
 ---
+## Pod running and Service running Screenshot
 ![Pod Running & Service Running](./pod-running-&-service-URL.png)
 ---
 ---
+## Browser app running Screenshot
 ![Browser app Running](./Browser-App-Running.jpeg)
 ```
