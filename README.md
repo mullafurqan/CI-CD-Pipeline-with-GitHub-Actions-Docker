@@ -1,13 +1,12 @@
 ```markdown
 # 🚀 Complete CI/CD Pipeline (GitHub Actions + Docker + Docker Hub + Minikube)
 
-## Detailed Step-by-Step Guide with 1.1, 1.2, 1.3 Numbering
-
+## Detailed Step-by-Step Guide 
 ---
 
-# 1. PROJECT SETUP
+1. PROJECT SETUP
 
-## 1.1 Create project folder
+ 1.1 Create project folder
 ```
 mkdir ci-cd-demo
 cd ci-cd-demo
