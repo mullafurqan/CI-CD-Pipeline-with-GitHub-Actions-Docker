@@ -319,6 +319,6 @@ From GitHub Actions
 - Browser app running  
 
 ---
-![Pod Running & Service Running]()
+![Pod Running & Service Running](Browser App Running.jpeg)
 ![Browser app Running]()
 ```
