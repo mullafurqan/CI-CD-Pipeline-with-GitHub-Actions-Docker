@@ -320,5 +320,7 @@ From GitHub Actions
 
 ---
 ![Pod Running & Service Running](./pod-running-&-service-URL.png)
-![Browser app Running]()
+---
+---
+![Browser app Running](./Browser-App-Running.jpeg)
 ```
