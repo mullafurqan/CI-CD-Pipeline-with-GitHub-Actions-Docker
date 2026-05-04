@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🚀 Complete CI/CD Pipeline (GitHub Actions + Docker + Docker Hub + Minikube)
 
 ## Detailed Step-by-Step Guide 
