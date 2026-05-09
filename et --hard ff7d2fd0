@@ -1,0 +1,56 @@
+[33m0bb7aa5e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fixed Windows GitHub Actions workflow
+[33me80e6d94[m commit 38
+[33m9f8b4633[m Updated CI/CD workflow
+[33m97688142[m Optimized React deployment with Nginx
+[33md2a10d76[m commit 37
+[33mb6a77656[m Added React frontend
+[33mb7dde5d0[m commit36
+[33m299d64e4[m commit 36
+[33mf3871de0[m Merge branch 'main' of https://github.com/mullafurqan/CI-CD-Pipeline-with-GitHub-Actions-Docker
+[33m5fc90488[m commit 35
+[33mc2c9255d[m Update README.md
+[33m5020f78b[m Update README.md
+[33meac8ec6a[m commit 33
+[33m6ab4e9e0[m added dockerignore
+[33m6a264181[m automatic deployment setup
+[33mf6c3baa3[m commit 34
+[33m0ec42099[m commit 32
+[33m2be39203[m commit 33
+[33m943fda36[m commit32
+[33mff7d2fd0[m commit 31
+[33m8a523b87[m commit 31
+[33mca52fbf6[m commit 30
+[33m1fdd49dc[m commit 29
+[33mb5f785a3[m commit29
+[33m914d7424[m commit27
+[33md8fad429[m commit 26
+[33m2a16bde1[m Update app.js
+[33m528c2f34[m Update app.js
+[33m1fc3ba17[m Update response message in app.js
+[33md7a50a25[m commit 22
+[33m4d8b79ba[m Update docker-compose.yml
+[33m72c289fe[m commit 22
+[33mccff3e32[m Commit 21
+[33m66b830f0[m Commit 21
+[33meeeb37df[m Update README.md
+[33m1e442ca5[m Update README.md
+[33m326e3cfa[m Update README.md
+[33mc4cc4c55[m Update README.md
+[33m0016e07c[m Add files via upload
+[33mb2943de7[m Update README.md
+[33m0dd6d27b[m Update README.md
+[33m99463344[m Update README.md
+[33m3bf471f2[m Update README.md
+[33m76d90c77[m Add files via upload
+[33md00616a4[m Update README.md
+[33ma786d4cc[m Update README.md
+[33m3d14124b[m Add CI/CD pipeline setup guide to README
+[33mdcfce587[m Merge branch 'main' of https://github.com/mullafurqan/CI-CD-Pipeline-with-GitHub-Actions-Docker
+[33m56a761cc[m Final commit
+[33m9fdc12ce[m Update ci-cd.yml
+[33m3286fdb9[m Fix Docker image tag format in CI/CD workflow
+[33me53f1bb9[m Update ci-cd.yml
+[33m42ddbb73[m Remove 'latest' tag from Docker image
+[33m30fb1ece[m Fix Docker image tag in CI/CD workflow
+[33m086487ff[m Create ci-cd.yml
+[33m76922818[m[33m ([m[1;31morigin/master[m[33m)[m added CI/CD pipeline
