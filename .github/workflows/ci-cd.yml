@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Stop old container
+      - name: Remove old container
         run: docker rm -f my-container
         continue-on-error: true
 
